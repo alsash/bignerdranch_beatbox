@@ -1,2 +1,3 @@
-# bignerdranch_beatbox
-Bignerdranch training - Android app "BeatBox"
+# BeatBox
+### Android app
+Bignerdranch training
