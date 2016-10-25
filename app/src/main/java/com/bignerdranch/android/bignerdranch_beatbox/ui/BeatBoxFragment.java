@@ -51,7 +51,7 @@ public class BeatBoxFragment extends Fragment {
         private Sound mSound;
 
         public SoundHolder(LayoutInflater inflater, @Nullable ViewGroup container) {
-            super(inflater.inflate(R.layout.fragment_beat_box, container, false));
+            super(inflater.inflate(R.layout.list_item_sound, container, false));
 
             mButton = (Button) itemView.findViewById(R.id.list_item_sound_button);
         }
