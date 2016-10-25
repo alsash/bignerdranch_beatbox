@@ -2,4 +2,5 @@
 ### Android app
 Bignerdranch training
 
-#### Exercises have been done in separate branches
+#### Exercise in Chapter 20
+- Added different button style for API 21+
